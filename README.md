@@ -3,6 +3,8 @@
  
  Neste repositorio você pode encontrar meu projeto e algumas notas durante o ocorrer da workshop!
  
+ O tema desta workshop é: _Conectar pessoas com orfanatos proximos._
+ 
  ---
  ## Dia 00
   #### O Inicio do projeto: 
