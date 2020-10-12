@@ -8,7 +8,11 @@
  ---
  ## Dia 00
   #### O Inicio do projeto: 
- Notas.
+ Neste dia aprendemos um pouco sobre o front-end.
+ HTM; CSS; Javascript;
+ 
+ Primeira pagina do aplicativo configurada, com informações sobre HTML5 e CSS3.
+ 2:15:10 de aula.
  
  ---
  ## Dia 01
