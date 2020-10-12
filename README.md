@@ -8,6 +8,7 @@
  ---
  ## Dia 00
   #### O Inicio do projeto: 
+ http://prntscr.com/uxyegx
  Neste dia aprendemos um pouco sobre o front-end.
  HTM; CSS; Javascript;
  
