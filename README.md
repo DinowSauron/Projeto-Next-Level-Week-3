@@ -21,10 +21,10 @@
  ## Dia 01
   #### Configurando as paginas
 <p>
-  <img src="https://user-images.githubusercontent.com/68889180/95921513-ce6e1900-0d87-11eb-8641-09692da20ead.png" width="250px">
-  <img src="https://user-images.githubusercontent.com/68889180/95921882-81d70d80-0d88-11eb-9b3b-13d2750421d2.png" width="250px">
-  <img src="https://user-images.githubusercontent.com/68889180/95929926-98d32b00-0d9b-11eb-85ad-2187b5c6a8a9.png" width="250px">
-  <img src="https://user-images.githubusercontent.com/68889180/95930316-8dccca80-0d9c-11eb-8444-4f4a0f53a9a6.png" width="180px">
+  <img src="https://user-images.githubusercontent.com/68889180/95921513-ce6e1900-0d87-11eb-8641-09692da20ead.png" width="380px">
+  <img src="https://user-images.githubusercontent.com/68889180/95921882-81d70d80-0d88-11eb-9b3b-13d2750421d2.png" width="380px">
+  <img src="https://user-images.githubusercontent.com/68889180/95929926-98d32b00-0d9b-11eb-85ad-2187b5c6a8a9.png" width="380px">
+  <img src="https://user-images.githubusercontent.com/68889180/95930316-8dccca80-0d9c-11eb-8444-4f4a0f53a9a6.png" width="320px">
 </p>
 
  Neste dia terminamos por completo a landing page do projeto, criamos a pagina de escolha de orfanatos a partir de um mapa disponibilizado pela leaflet gratuitamente, além de criar uma pagina para a visita de orfanatos contendo informações sobre a visita e o orfanato em si.
