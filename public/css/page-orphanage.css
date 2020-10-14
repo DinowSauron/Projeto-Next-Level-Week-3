@@ -32,6 +32,7 @@ aside.side-bar footer button:hover{
     background:#17d6eb;
 }
 
+
 .with-sidebar{
     padding-left: 110px;
 }
@@ -73,6 +74,7 @@ div.orphanage-details > img{
 
     opacity: 0.6;
     transition: 200ms;
+    outline: none;
 }
 .images button:hover,
 .images button.active{

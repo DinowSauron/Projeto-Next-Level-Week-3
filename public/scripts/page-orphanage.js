@@ -30,8 +30,8 @@ function selectImage(event){
     const button = event.currentTarget;
     const buttons = document.querySelectorAll(".images button"); /* como no css! */
 
-    buttons.forEach(Removeclass);
-    function Removeclass(button){
+    buttons.forEach(removeClass);
+    function removeClass(button){
         button.classList.remove("active");
     }
     button.classList.add("active");
