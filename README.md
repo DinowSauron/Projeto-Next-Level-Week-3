@@ -69,6 +69,8 @@
   
  Neste dia aprendemos os conceitos de back-end, instalamos as dependencias e os pacotes no projeto, renomeamos os arquivos html para terminar com hbs, além de pegarmos dados de teste criados em nosso servidor.
  
+ Estudos: Back-end; Javascript; HBS(html);
+ 
  #### Comandos utilizados:
   * npm init -y  > Cria um package.json para as dependencias. (json > JavascriptObjectNotation)
   * npm install express  > Instala o pacote para rodar o backend.
