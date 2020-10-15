@@ -3,7 +3,7 @@ const map = L.map('mapid').setView([-22.8745251,-43.4653333], 8);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
 
 const icon = L.icon({
-    iconUrl: "./public/images/map-marker.svg",
+    iconUrl: "/images/map-marker.svg",
     iconSize: [38,48],
     iconAnchor: [19,48]
 })
@@ -71,8 +71,4 @@ function toggleSelect(event){
     // hiddenInput.value = 1;
     // else 
     // hiddenInput.value = 2;
-    
-    
-
-
 }

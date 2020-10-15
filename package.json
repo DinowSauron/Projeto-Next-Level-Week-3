@@ -1,0 +1,25 @@
+{
+  "name": "Projeto-Next-Level-Week-3",
+  "version": "1.0.0",
+  "description": "Projeto feito no evento da RocketSeat para criar um aplicativo coletivamente dentro de uma semana.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinowSauron/Projeto-Next-Level-Week-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinowSauron/Projeto-Next-Level-Week-3/issues"
+  },
+  "homepage": "https://github.com/DinowSauron/Projeto-Next-Level-Week-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5"
+  }
+}
