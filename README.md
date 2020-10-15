@@ -19,7 +19,7 @@
  
  ---
  ## Dia 01
-  #### Configurando as paginas
+  #### Configurando as paginas:
 <p>
   <img src="https://user-images.githubusercontent.com/68889180/95921513-ce6e1900-0d87-11eb-8641-09692da20ead.png" width="380px">
   <img src="https://user-images.githubusercontent.com/68889180/95921882-81d70d80-0d88-11eb-9b3b-13d2750421d2.png" width="380px">
@@ -35,8 +35,18 @@
  
  --- 
  ## Dia 02
-  #### dayTitle 
- Notas.
+  #### Paginas de cadastramento:
+ 
+ <p>
+   <img src="https://user-images.githubusercontent.com/68889180/96069219-18342d80-0e74-11eb-856b-cabc283af910.png" width="380px">
+   <img src="https://user-images.githubusercontent.com/68889180/96069265-3732bf80-0e74-11eb-9c82-31986fa8c200.png" width="380px">
+ </p>
+ 
+  Neste dia criamos a pagina para se cadastrar um novo orfanato com sistema de validação e envio de formulário para ser utilizado no backend.
+ 
+ Estudos: CSS; HTML; Javascript;
+ 
+ 1:58:35 de aula
  
  ---
  ## Dia 03
