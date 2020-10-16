@@ -38,7 +38,7 @@
       </aside>
 
       <main class="animate-appear with-sidebar">
-        <form action="">
+        <form action="saveOrphanage" method="POST" onsubmit="validate(event)"> <!-- method POST para não enviar por ? na url, e vai direto pra rota save-orphanage-->
           <fieldset>
             <legend>Dados</legend>
 
@@ -76,7 +76,7 @@
               <div class="images-upload" id="images">
 
                 <div class="new-upload">
-                  <input name="images" placeholder="Cole o link da foto aqui..." required>
+                  <input type="url" name="images" placeholder="Cole o link da foto aqui..." required>
                   <span onclick="deletePhotoField(event)">
                     <img src="/images/remove-file.svg" alt="Remover foto"> 
                   </span>
@@ -99,8 +99,8 @@
               <textarea id="instructions" name="instructions" required></textarea>
             </div>
             <div class="input-block">
-              <label for="open-hours">Horário das visitas</label>
-              <input id="open-hours" name="open-hours" required>
+              <label for="opening_hours">Horário das visitas</label>
+              <input id="opening_hours" name="opening_hours" required>
             </div>
 
             <div class="input-block">

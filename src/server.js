@@ -7,6 +7,9 @@ const server = express();
 
 
 server
+//utilizar body na requisição! Extended
+.use(express.urlencoded({extended: true}))
+//utilizar arquivos estaticos
 .use(express.static("public"))
 //template engine config
 .set("views", path.join(__dirname, "views"))
@@ -17,6 +20,7 @@ server
 .get("/orphanages", pages.orphanages)
 .get("/orphanage", pages.orphanage)
 .get("/create-orphanage", pages.createOrphanage)
- 
+.post("/saveOrphanage", pages.saveOrphanage)
+
 //abrindo o servidor
 server.listen(5500)

@@ -72,3 +72,8 @@ function toggleSelect(event){
     // else 
     // hiddenInput.value = 2;
 }
+
+function validate(event){
+    // event.preventDefault(); //faz não enviar o formulario !
+    //alert("selecione um ponto no mapa!")
+}
