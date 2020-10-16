@@ -84,16 +84,28 @@
  
  ---
  ## Dia 04
+  #### Banco de dados (Final)
+  
+  <p>
+ <img src="https://user-images.githubusercontent.com/68889180/96321576-4fc5e580-0fec-11eb-8710-203100b8843c.png" 
+        width="400px" title="novos orfanatos cadastrados já o mapa!" alt="Novos orfanatos cadastrados!">
+ <img src="https://user-images.githubusercontent.com/68889180/96321617-77b54900-0fec-11eb-878a-3299cef0c396.png" 
+        width="400px" title="Servidor sendo executado" alt="Servidor sendo executado">
+ </p>
+  
+ Neste video terminamos a parte de pegar os dados do banco de dados, de salvar no banco de dados e de cadastrar novos orfanatos, e depois disso nos, ah, pera ai... o projeto já está pronto!
+ 
+ Estudos: Back-end; Banco de dados; Sql; Sqlite; Javascript
+ 
+ 2:00:15 de aula.
+ 
+ ---
+ 
+ #Encerramento
+ 
+ ---
+ ## Dia xx
   #### dayTitle
  Notas.
  
- ---
- ## Dia 05
-  #### dayTitle
- Notas.
- 
- ---
- ## Dia 06
-  #### Encerramento
- Notas.
  
