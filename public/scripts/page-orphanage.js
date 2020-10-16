@@ -3,10 +3,11 @@ const options = {
     touchZoom: false,
     doubleClickZoom: false,
     scrollWheelZoom: false,
+    keyboard: false,
     zoomControl: false
 }
 
-const map = L.map('mapid', options).setView([-22.8745251,-43.4653333], 15);
+const map = L.map('mapid', options).setView([-22.8745251, -43.4653333], 15);
 
 // Leaflet Map
 
@@ -21,7 +22,7 @@ const icon = L.icon({
     popupAnchor: [170,2]
 })
 
-L.marker([-22.8745251,-43.465333], { icon }).addTo(map)
+L.marker([-22.8745251, -43.465333], { icon }).addTo(map)
 
 
 /* image gallery */
