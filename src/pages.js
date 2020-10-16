@@ -17,6 +17,7 @@ module.exports = {
 
             orphanage.images = orphanage.images.split(",");
             orphanage.firstImage = orphanage.images[0];
+            orphanage.images.splice(0,1);
             orphanage.openOnWeekends = orphanage.openOnWeekends == "1" ? true : false; 
 
             return res.render("orphanage", {orphanage});
