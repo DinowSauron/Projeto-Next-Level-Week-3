@@ -61,7 +61,9 @@ function cleanFields(){
     textInput.value = '';
 }
 
-Handlebars.registerHelper('notNull', function(value1,value2, options) {
-    if(value1)
-    return options.inverse(this);
-});
+function validate(event){
+    const nameInput = document.querySelector(".new-comment #name");
+    const textInput = document.querySelector(".new-comment #text");
+    nameInput.value = nameInput.value.replace('|%20SPACE%20|')
+    textInput.value = textInput.value.replace('|%20SPACE%20|')
+}

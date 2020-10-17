@@ -109,7 +109,7 @@
             {{/each}}
 
 
-            <form class="new-comment" action="saveComment" method="POST">
+            <form class="new-comment" action="saveComment" method="POST" onsubmit="validate(event)">
               <h3>Compartilhe sua experiência com um comentário!</h3>
               <input name="id" value="{{orphanage.id }}" required hidden>
               <div class="input-block">
@@ -123,7 +123,7 @@
 
               <div class="comment-buttons">
                 <button type="button" class="exclude-button" onclick="cleanFields()">Apagar</button>
-                <button type="submit" class="primary-button">Comentar</button>
+                <button type="submit" class="primary-button" >Comentar</button>
               </div>
             </form>
 
