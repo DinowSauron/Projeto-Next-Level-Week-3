@@ -1,3 +1,4 @@
+.exclude-button,
 .primary-button{
     margin-top: 6.4rem;
     width: 100%;
@@ -20,11 +21,24 @@
     border: 1px solid #106e3a;
 }
 .primary-button:hover{
-background: #36cf82;
+    background: #36cf82;
 }
 .primary-button img{
     margin-right: 1.6rem;
 }
+.exclude-button{
+    background: #ff3e68;
+}
+.exclude-button:focus
+{
+    outline: none;
+    border: 1px solid #a72b46;
+}
+.exclude-button:hover{
+    background: #e2375c;
+}
+
+
 
 .button-select{
     display: grid;

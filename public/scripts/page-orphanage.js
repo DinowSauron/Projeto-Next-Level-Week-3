@@ -52,3 +52,16 @@ function selectImage(event){
     // button.className = "active";
     
 }
+
+function cleanFields(){
+    const nameInput = document.querySelector(".new-comment #name");
+    const textInput = document.querySelector(".new-comment #text");
+
+    nameInput.value = '';
+    textInput.value = '';
+}
+
+Handlebars.registerHelper('notNull', function(value1,value2, options) {
+    if(value1)
+    return options.inverse(this);
+});

@@ -120,4 +120,44 @@ div.orphanage-details > img{
 }
 
 
+form.new-comment{
+    width: 100%;
+    padding: 2rem 1.2rem;
+}
+.comments h2{
+    margin-bottom: 3.2rem;
+}
+.comment{
+    border: 1px solid #b3dae2;
+    border-radius: 20px;
+    padding: 1.2rem 1.2rem;
+    margin-bottom: 2.5rem;
+}
+.comment p {
+    margin: 0;
+    line-height: 1.15;
+}
+.comment p.name{
+    margin-top: 2rem;
+    font: 400 1.2rem/1 'Nunito', sans-serif;
+    color: #77878f;
+}
+form.new-comment h3{
+    color: #4d6f80;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-bottom: 0.8rem;  
+}
 
+.comment-buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+form.new-comment .primary-button,
+form.new-comment .exclude-button{
+    width: 25%;
+    border-radius: 15px;
+    margin: 2rem 0 0 0;
+    height: 4rem;
+}

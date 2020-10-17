@@ -21,6 +21,7 @@ server
 .get("/orphanage", pages.orphanage)
 .get("/create-orphanage", pages.createOrphanage)
 .post("/saveOrphanage", pages.saveOrphanage)
+.post("/saveComment", pages.saveComment)
 
 //abrindo o servidor
 server.listen(5500)

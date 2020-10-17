@@ -18,7 +18,9 @@ dataBase.then(async (db) => {
         ].toString(),
         instructions: "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
         openingHours: "Horário de visitas Das 18 até 9h",
-        openOnWeekends: "1"
+        openOnWeekends: "1",
+        name: "",
+        texts: ""
     }
     await saveOrphanage(db, orphanage);
     

@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="/css/page-orphanage.css" />
     <link rel="stylesheet" href="/css/sidebar.css" />
     <link rel="stylesheet" href="/css/animations.css" />
+    <link rel="stylesheet" href="/css/form.css" />
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
     integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -94,6 +95,40 @@
               <img src="/images/whatsapp.svg" alt="Chamar no Whatsapp">Chamar no Whatsapp
               </a>
             
+            <hr>
+
+            <div class="comments">
+            
+            <h2>Comentários:</h2>
+
+            {{#each orphanage.data.comments}}
+            <div class="comment">
+              <p class="text">{{text}}</p>
+              <p class="name">{{data}} por: <span class="name-field">{{name}}</span> </p>
+            </div>
+            {{/each}}
+
+
+            <form class="new-comment" action="saveComment" method="POST">
+              <h3>Compartilhe sua experiência com um comentário!</h3>
+              <input name="id" value="{{orphanage.id }}" required hidden>
+              <div class="input-block">
+                <label for="name">Nome</label>
+                <input id="name" name="name" required>
+              </div>
+              <div class="input-block">
+                <label for="text">Experiência <span>Máximo de 200 caracteres</span></label>
+                <textarea id="text" name="text" required></textarea>
+              </div>
+
+              <div class="comment-buttons">
+                <button type="button" class="exclude-button" onclick="cleanFields()">Apagar</button>
+                <button type="submit" class="primary-button">Comentar</button>
+              </div>
+            </form>
+
+
+            </div>
           </div>
 
         </div>

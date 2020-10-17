@@ -15,7 +15,10 @@ function execute(db){
             images TEXT,
             instructions TEXT,
             openingHours TEXT,
-            openOnWeekends TEXT
+            openOnWeekends TEXT,
+            names TEXT,
+            texts TEXT,
+            datas TEXT
         );
     `);
 }
