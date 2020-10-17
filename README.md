@@ -5,6 +5,11 @@
  
  O tema desta workshop é: __Conectar pessoas com orfanatos proximos.__
  
+ Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.
+ 
+ 
+ Note que todas as informações sobre localizações neste projeto são somente testes e não representa significado algum, nem seus nomes, fotos, numeros, comentários ou descrições, todos os dados deste genero são ficticios...
+ 
  ---
  ## Dia 01
   #### O Inicio do projeto: 
@@ -100,6 +105,32 @@
  2:00:15 de aula.
  
  ---
+ ## Dia 06
+  #### O Desafio...
+  
+  Neste dia, não tivemos aula, porém na live da milha extra, tivemos um desafio muito interessante, que seria adicionar uma nova funcionalizade a aplicação, por nossa escolha, e eu escolhi acrescentar comentários aos orfanatos!
+
+Isso foi incrivel, pois eu não entendi direito os bancos de dados e aplicar algo assim ,mesmo que seja simples, foi de grande ajuda pra eu notar a simplicidade do fluxo dos dados na aplicação! consegui terminar em umas 5hrs.
+
+Neste sistema podemso fazer um comentário a qualquer orfanato (cada um tendo seus comentarios), colocando para qualquer um ver nosso relato, os comentarios tem um nome, e data, fazendo com que você saiba quem comentou e quando comentou e os comentarios mais recentes aparecem primeiro!
+
+
+Claro, ainda falta um sistema de cadastro para os comentarios não serem muito vazios, também não sei se a minha maneira de resolver esse problema foi a melhor, porem ele foi resolvido.
+
+  <h3>Os Comentários:</h3>
+  <img src="https://user-images.githubusercontent.com/68889180/96353062-0bdfe880-109f-11eb-88c0-cc19caf44d07.png" 
+        width="400px" title="Seção de comentários" alt="Seção de comentários">
+ 
+  <h3>Criando um comentário:</h3>
+  <img src="https://user-images.githubusercontent.com/68889180/96353378-bb1dbf00-10a1-11eb-876f-189cc3012d04.png" 
+        width="400px" title="Seção de comentários" alt="Seção de comentários">
+
+  <h3>Comentário aplicado na pagina do orfanato especifico!:</h3>
+  <img src="https://user-images.githubusercontent.com/68889180/96353399-0637d200-10a2-11eb-8d29-da270fb18c2c.png" 
+        width="400px" title="Seção de comentários" alt="Seção de comentários">
+
+
+ ---
  
  ## Encerramento
  
@@ -118,5 +149,5 @@
  Nesta live vimos como acelerar nossa evolução, novamente falando sobre o foco a pratica e o grupo, também comentado o site roadmap.sh para ter um caminho para seguir, o começo pode ser lento se sua estrada estiver cheia de obstaculos.
  
  ### Live 05 (A Milha Extra)
- Nesta aula...
+ Nesta aula tivemos os conceitos dos proximos passos, de não somente ter os conceitos na teoria, mais sim aplica-los na pratica, aplicar o conhecimento é a melhor forma de praticar!
  
