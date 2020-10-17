@@ -6,7 +6,7 @@
  O tema desta workshop é: __Conectar pessoas com orfanatos proximos.__
  
  ---
- ## Dia 00
+ ## Dia 01
   #### O Inicio do projeto: 
  <img src="https://user-images.githubusercontent.com/68889180/95921166-2eb08b00-0d87-11eb-88ba-ef215b94f01b.png" 
  width="400px" title="Layout da landingpage" alt="Layout da landingpage">
@@ -20,7 +20,7 @@
  2:15:10 de aula.
  
  ---
- ## Dia 01
+ ## Dia 02
   #### Configurando as paginas:
 <p>
   <img src="https://user-images.githubusercontent.com/68889180/95921513-ce6e1900-0d87-11eb-8641-09692da20ead.png" 
@@ -40,7 +40,7 @@
  3:08:50 de aula.
  
  --- 
- ## Dia 02
+ ## Dia 03
   #### Paginas de cadastramento:
  
  <p>
@@ -57,7 +57,7 @@
  1:58:35 de aula
  
  ---
- ## Dia 03
+ ## Dia 04
   #### O Back-end
   
   <p>
@@ -83,7 +83,7 @@
  1:53:45 de aula
  
  ---
- ## Dia 04
+ ## Dia 05
   #### Banco de dados (Final)
   
   <p>
@@ -101,11 +101,22 @@
  
  ---
  
- #Encerramento
+ ## Encerramento
  
  ---
- ## Dia xx
-  #### dayTitle
- Notas.
+
+ ### Live 01 (Acelerando sua Evolução)
+ Nesta live vimos tres pilares basicos (foco, pratica e grupo) e poder destesconceitos em seu aprendizado!
  
+ ### Live 02 (Olhando as Oportunidades)
+ Nesta live foi comentado as oportunidades dos mercados de trabalho e a necessidade de ter confiança a se aplicar em uma vaga.
+ 
+ ### Live 03 (A Escolha da Stack)
+ Nesta live houve uma separação sobre oque é stack, framework e tecnologia, e quando utilizar para a ansiedade ou o hype de uma nova tecnologia não interferir em sua aplicação ou aprendizado.
+ 
+ ### Live 04 (Até dois Anos em Dois Messes)
+ Nesta live vimos como acelerar nossa evolução, novamente falando sobre o foco a pratica e o grupo, também comentado o site roadmap.sh para ter um caminho para seguir, o começo pode ser lento se sua estrada estiver cheia de obstaculos.
+ 
+ ### Live 05 (A Milha Extra)
+ Nesta aula...
  
