@@ -11,7 +11,7 @@ aside.side-bar {
     align-items: center;
 
 }
-aside.side-bar footer button{
+aside.side-bar footer a{
     width: 48px;
     height: 48px;
     border: none;
@@ -24,6 +24,6 @@ aside.side-bar footer button{
     justify-content: center;
     transition: 200ms;
 }
-aside.side-bar footer button:hover{
+aside.side-bar footer a:hover{
     background:#17d6eb;
 }

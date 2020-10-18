@@ -29,7 +29,7 @@ module.exports = {
                 text: orphanage.texts[i],
                 data: orphanage.datas[i]});
             }
-            console.log(orphanage.data)
+            // console.log(orphanage.data)
 
             orphanage.firstImage = orphanage.images[0];
             orphanage.images.splice(0,1);
