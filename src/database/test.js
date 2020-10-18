@@ -20,7 +20,8 @@ dataBase.then(async (db) => {
         openingHours: "Horário de visitas Das 18 até 9h",
         openOnWeekends: "1",
         name: "",
-        texts: ""
+        texts: "",
+        datas: ""
     }
     await saveOrphanage(db, orphanage);
     

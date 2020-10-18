@@ -25,7 +25,7 @@ const icon = L.icon({
     popupAnchor: [170,2]
 })
 
-L.marker([lat, lng], { icon }).addTo(map)
+L.marker([lat, lng], { icon }).addTo(map);
 
 
 /* image gallery */
@@ -41,7 +41,7 @@ function selectImage(event){
     button.classList.add("active");
 
     const image = button.children[0];
-    const imageContainer = document.querySelector(".orphanage-details > img")
+    const imageContainer = document.querySelector(".orphanage-details > img");
     imageContainer.src = image.src;
     // Minha formula...
     // for(var x = 0; x < buttons.length;x++){
@@ -64,6 +64,6 @@ function cleanFields(){
 function validate(event){
     const nameInput = document.querySelector(".new-comment #name");
     const textInput = document.querySelector(".new-comment #text");
-    nameInput.value = nameInput.value.replace('|%20SPACE%20|')
-    textInput.value = textInput.value.replace('|%20SPACE%20|')
+    nameInput.value = nameInput.value.replace('|%20SPACE%20|', '');
+    textInput.value = textInput.value.replace('|%20SPACE%20|', '');
 }

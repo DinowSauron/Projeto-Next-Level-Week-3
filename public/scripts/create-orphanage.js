@@ -74,6 +74,10 @@ function toggleSelect(event){
 }
 
 function validate(event){
-    // event.preventDefault(); //faz não enviar o formulario !
-    //alert("selecione um ponto no mapa!")
+    const latlng = document.querySelector('input[type="hidden"]');
+  
+    if(latlng.value == ""){
+        event.preventDefault(); //faz não enviar o formulario !
+        alert("selecione um ponto no mapa!");
+    }
 }

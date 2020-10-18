@@ -87,7 +87,7 @@ dados = [
         lat: "-22.883498531841326",
         lng: "-43.44848155975342",
         name: "Acolhimento Almeida",
-        about: "somos uma simples instituição que opera com recursos limitados para ajudar jovens em áreas de risco que não são mais bem-vindos em suas casas.",
+        about: "Somos uma simples instituição que opera com recursos limitados para ajudar jovens em áreas de risco que não são mais bem-vindos em suas casas.",
         images: [
             "https://images.unsplash.com/photo-1602636403821-e43d50123cb7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
             "https://images.unsplash.com/photo-1595009503377-e3be116106b6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
