@@ -151,3 +151,5 @@ Claro, ainda falta um sistema de cadastro para os comentarios não serem muito v
  ### Live 05 (A Milha Extra)
  Nesta aula tivemos os conceitos dos proximos passos, de não somente ter os conceitos na teoria, mais sim aplica-los na pratica, aplicar o conhecimento é a melhor forma de praticar!
  
+ ### Live 06 (Encerramento)
+  Nesta live foi mais uma despedida, o motivo da nlw, perguntas e respostas, e o resultado do sorteio do desafio, infelizmente não fui escolhido mais esse não era meu objetivo principal, foi muito bom fazer o desafio também.
