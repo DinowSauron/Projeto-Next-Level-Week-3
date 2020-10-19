@@ -3,7 +3,9 @@ const map = L.map('mapid').setView([-22.8745251,-43.4653333], 15);
 // Leaflet Map
 
 //TitleLayer
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
 
 //Icon
 const icon = L.icon({
@@ -34,4 +36,3 @@ function addMarker({id, name, lat, lng}){
     
     L.marker([lat, lng], { icon }).addTo(map).bindPopup(popup);
 }
-
