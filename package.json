@@ -4,7 +4,7 @@
   "description": "Projeto feito no evento da RocketSeat para criar um aplicativo coletivamente dentro de uma semana.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "nodemon ./src/server.js"
   },
   "repository": {
     "type": "git",
