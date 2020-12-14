@@ -24,6 +24,6 @@ server
 .post("/saveComment", pages.saveComment)
 
 //abrindo o servidor
-server.listen(5500)
+server.listen(5800)
 
 // utilize $ npm start para iniciar o servidor, e o link é este: http://127.0.0.1:5500/
